@@ -139,7 +139,6 @@ SQL joins are essential for working with relational databases. Understanding the
 
 [![Video Title](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://youtu.be/7mz73uXD9DA?t=4207&si=zcukn2py0A9dgA_u)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" 
-frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7mz73uXD9DA?si=zcukn2py0A9dgA_u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
